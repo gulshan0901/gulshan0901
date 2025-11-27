@@ -4,9 +4,11 @@
 
 <p align="center">
   <a href="https://gulashan.vercel.app" target="_blank">🌐 Portfolio</a> •
-  <a href="mailto:gulshan777@gmail.com">📧 Email</a> •
+  <a href="mailto:gulshan.techlead@gmail.com">📧 Email</a> •
+  <a href="mailto:gulshan0901@gmail.com">📧 Alternate Email</a> •
   <a href="https://www.linkedin.com/in/gulshankumarofficial" target="_blank">🔗 LinkedIn</a> •
-  <a href="https://wa.me/91XXXXXXXXXX" target="_blank">💬 WhatsApp</a>
+  <a href="https://wa.me/917359934529" target="_blank">💬 WhatsApp (+91 73599 34529)</a> •
+  <a href="https://wa.me/917984941885" target="_blank">💬 WhatsApp (+91 79849 41885)</a>
 </p>
 
 ---
@@ -50,7 +52,7 @@ MySQL • MSSQL
 
 ---
 
-## 🔥 Featured Projects (Pinned on GitHub)
+## 🔥 Featured Projects
 
 ### 🔹 **1. Linwood Forest Capital — Corporate Website Redevelopment**
 **Stack:** Next.js, React, TypeScript, Tailwind, Headless WordPress  
@@ -83,7 +85,8 @@ MySQL • MSSQL
 - Improved UX for admin workflows  
 - Performance improvements & reduced load time  
 
-🔗 Website: https://www.swandrivein.com
+🔗 Website: https://www.swandrivein.com  
+📁 Repo: *(Add once available)*
 
 ---
 
@@ -92,7 +95,29 @@ MySQL • MSSQL
 - Created responsive UI pages & high-performance theme customizations  
 - Delivered SEO-friendly layouts and optimized user flow  
 
-🔗 Website: https://thedflgroup.com
+🔗 Website: https://thedflgroup.com  
+📁 Repo: *(Add once available)*
+
+---
+
+### 🔹 **5. Gulashan Portfolio (This Site)**
+**Stack:** Next.js, React, TypeScript, MUI/Tailwind  
+**Highlights:**
+- Personal portfolio showcasing projects, skills, and contact information  
+- Demonstrates headless WordPress integrations, project case studies, and downloadable resume  
+
+🔗 Live: https://gulashan.vercel.app  
+📁 Repo: https://github.com/gulshan0901/gulshan-portfolio *(if public — add repo link)*
+
+---
+
+### 🔹 **6. Mindgrid Solution**
+**Stack:** React, Next.js, Node (example stack)  
+**Overview:**
+- UI-driven product pages and admin features; reusable components and charts  
+- Focus on maintainable architecture and developer experience  
+
+📁 Repo: https://github.com/gulshan0901/mindgrid-solution *(add if public / adjust name as needed)*
 
 ---
 
@@ -115,11 +140,12 @@ MySQL • MSSQL
 
 ## 🤝 Connect With Me
 
-📧 **Email:** gulshan777@gmail.com  
+📧 **Primary Email:** gulshan.techlead@gmail.com  
+📧 **Alternate Email:** gulshan0901@gmail.com  
+📞 **Phone / WhatsApp:** +91 73599 34529 • +91 79849 41885  
 🔗 **LinkedIn:** https://www.linkedin.com/in/gulshankumarofficial  
-🌐 **Portfolio:** https://gulashan.vercel.app  
-💬 **WhatsApp:** https://wa.me/91XXXXXXXXXX  
+🌐 **Portfolio:** https://gulashan.vercel.app
 
 ---
 
-⭐ **If you like my work, consider giving my repositories a star!** 😊  
+⭐ **If you like my work, consider giving my repositories a star!** 😊
