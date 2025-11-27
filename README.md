@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="banner.png" width="100%" alt="Gulashan Kumar - Technical Lead Banner" />
+</p>
 <!-- HERO -->
 <h1 align="center">Hi 👋, I'm Gulashan Kumar</h1>
 <h3 align="center">Technical Lead • Senior UI Engineer • React | Next.js | TypeScript | Headless CMS</h3>
